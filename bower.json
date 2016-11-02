@@ -1,0 +1,15 @@
+{
+  "name": "gridvar",
+  "homepage": "https://github.com/dsjen/gridvar",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.3"
+  }
+}
